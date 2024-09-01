@@ -5,15 +5,22 @@
 
 Objective:
 Customer Segmentation: Identify different customer segments based on spending habits, frequency of purchases, and other relevant factors.
+
 Spend Analysis: Analyze total spending, average transaction value, and categorize spending across different sectors.
+
 Risk Assessment: Identify customers who are at a higher risk of default based on their spending patterns and payment history.
+
 Churn Prediction: Predict potential customer churn using historical data and behavior patterns.
+
 Data Visualization: Create dashboards to visualize key metrics and trends
 
 ✨ Key Features:
 Transaction Overview: Detailed analysis of total revenue, interest earned, transaction amounts, and counts.
+
 Trends Analysis: Quarterly and weekly revenue trends segmented by various demographics.
+
 Category Breakdown: Revenue and transaction analysis by customer job, expenditure type, education level, and card usage.
+
 Customer Demographics: Segmentation by salary group, Age group, and education level.
 
 📈 Key Insights:
