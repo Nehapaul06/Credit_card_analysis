@@ -1,11 +1,15 @@
-🔍 Project Title: Credit Card and Customer Analysis
+🔍 Project Title: Credit Card and Customer Analysis.
+
+
 📊 Overview: This project involves analyzing customer data related to credit card usage to extract meaningful insights. The analysis focuses on understanding customer behavior, spending patterns, and identifying trends that can help businesses make informed decisions.
+
 Objective:
 Customer Segmentation: Identify different customer segments based on spending habits, frequency of purchases, and other relevant factors.
 Spend Analysis: Analyze total spending, average transaction value, and categorize spending across different sectors.
 Risk Assessment: Identify customers who are at a higher risk of default based on their spending patterns and payment history.
 Churn Prediction: Predict potential customer churn using historical data and behavior patterns.
 Data Visualization: Create dashboards to visualize key metrics and trends
+
 ✨ Key Features:
 Transaction Overview: Detailed analysis of total revenue, interest earned, transaction amounts, and counts.
 Trends Analysis: Quarterly and weekly revenue trends segmented by various demographics.
